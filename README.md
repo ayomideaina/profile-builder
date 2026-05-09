@@ -24,11 +24,8 @@
    - Experience Ranking
 
 
-## Screenshot
-```markdown
-![Console Output](images/image1.png)
-```
+## Images
 
-```markdown
+![Console Output](images/image1.png)
+
 ![Console Output](images/image2.png)
-```
